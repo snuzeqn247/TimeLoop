@@ -95,7 +95,7 @@ src/
 
 Dani — Head of Organizational Development at The Sia Foundation, building her first real app.
 
-This started as a brainstorm in a Slack DM and ended as a working memory vault built on a SDK that was announced the same day. Vibe coded, shipped on time(ish).
+This started as a brainstorm in a Slack DM and ended as a working memory vault built on a SDK. Vibe coded, shipped on time(ish).
 
 ## Built for
 
