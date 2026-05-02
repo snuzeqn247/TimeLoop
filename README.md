@@ -8,6 +8,9 @@ TimeLoop tries something different. It lets you build your own memory timeline �
 
 Built for **The Block Reward**, the Sia Foundation's internal hackathon, April 29 – May 1, 2026.
 
+**Demo video:**
+https://www.loom.com/share/9127fe8868a947eb9510141520e1ec85
+
 ## What it does
 
 TimeLoop runs as a single-page browser app. Drop in a photo, video, document, audio file, or note. Pick which direction in time it lives in:
@@ -96,4 +99,4 @@ This started as a brainstorm in a Slack DM and ended as a working memory vault b
 
 ## Built for
 
-[**The Block Reward**](https://siafoundation.notion.site) — Sia Foundation internal hackathon, April 29 – May 1, 2026.
+**The Block Reward** — Sia Foundation internal hackathon, April 29 – May 1, 2026.
