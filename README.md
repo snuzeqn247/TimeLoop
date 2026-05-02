@@ -60,7 +60,7 @@ A determined developer with this repo could read a sealed capsule's contents bef
 - **React 19** + **TypeScript** + **Vite**
 - **Tailwind CSS 4** for styling
 - **Zustand** for auth state
-- **`@siafoundation/sia-storage`** — the official browser-native Sia SDK, announced May 1, 2026
+- **`@siafoundation/sia-storage`** — the official browser-native Sia SDK
 
 The whole app is one auth flow plus one main component. There is no backend.
 
